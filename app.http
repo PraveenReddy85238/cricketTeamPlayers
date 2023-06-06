@@ -1,2 +1,20 @@
 
 GET http://localhost:3000/players/
+
+
+### post API 2
+POST http://localhost:3000/players/
+
+
+### get API 3 
+
+GET http://localhost:3000/players/:1/
+
+### put API 4
+
+PUT http://localhost:3000/players/:1/
+
+
+### delete API 5
+
+DELETE http://localhost:3000/players/1/
